@@ -1,0 +1,2 @@
+# Curriculo-resume
+resume / curriculo
